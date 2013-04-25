@@ -1,0 +1,79 @@
+Penulis asli: Harry Sufehmi (http://harry.sufehmi.com)
+
+#################################################
+
+Pernahkah Anda bertanya di suatu forum atau mailing list komputer di Internet, namun tidak dijawab oleh seorang pun 
+? Atau mungkin malah ada yang meledek Anda? Jangan kaget, cara Anda bertanya dapat sangat mempengaruhi respons yang akan Anda dapatkan. Jika cara Anda benar, maka di forum yang sama bisa jadi malah orang-orang seperti menjadi saling berebutan untuk membantu Anda.
+
+Anda hanya perlu menempatkan diri Anda pada posisi mereka (anggota-anggota forum lainnya), dan berpikir, kira-kira pertanyaan seperti apa yang saya akan jawab dengan senang hati?
+
+FAKTA UTAMA:
+Para anggota forum saling membantu satu dengan lainnya tanpa bayaran. Kebalikannya, justru mereka mengorbankan waktu dan pikiran untuk menolong Anda. Buatlah agar mereka merasa tergerak untuk menjawab pertanyaan Anda, dengan melakukan langkah-langkah berikut ini.
+
+Persiapan sebelum bertanya
+- Coba baca lagi dokumentasi produk tersebut baik-baik
+- Coba cari dahulu jawabannya dengan mencarinya di Internet (via Google, dll)
+- Coba cari jawabannya di arsip mailing list/forum dari produk tersebut (kalau jawabannya sudah ada di arsip, kadang-kadang orang akan menjadi jengkel dengan pertanyaan Anda)
+- Dan seterusnya pada intinya; jangan lupa tunjukkan bahwa Anda sudah berusaha untuk memecahkan masalah tersebut.Karena jika Anda tidak menyertakan bukti-bukti usaha Anda, maka orang lain cenderung melihat Anda sebagai pemalas dan tidak merasa tergugah untuk membantu Anda.
+- Kemudian, cari tahu tempat yang tepat untuk menanyakan pertanyaan Anda tersebut. Pertanyaan mengenai programming akan cenderung diabaikan, atau malah akan mengundang kecaman, jika diposting di forum mengenai perangkat keras.
+- Cross-posting (memposting pertanyaan ke banyak forum sekaligus) cenderung membuat orang menjadi malas menjawab pertanyaan Anda ("ah, paling forum anu yang akan menjawabnya")
+- Kalaupun Anda merasa betul-betul perlu untuk memposting pertanyaan tersebut ke beberapa forum sekaligus, maka kirimkan sebagai satu buah email untuk setiap forum.
+
+Ketika bertanya 
+- Jangan bertanya langsung ke individu.
+- Bertanya ke forum/mailing list adalah lebih baik, karena:
+  * Jawaban dari pertanyaan Anda tersebut jadi bisa bermanfaat untuk banyak orang 
+  * Jawaban dari pertanyaan Anda biasanya akan tersimpan di arsip forum tersebut, sehingga akan terus bermanfaat bagi orang lain (muncul di hasil search Google, dst)
+  * Poin-poin diatas menjadi insentif bagi para pakar di forum tersebut untuk menjawab pertanyaan Anda
+  * Anggota forum dapat bekerja sama untuk membantu menjawab pertanyaan Anda
+  * Dan, email yang dikirim langsung dari seseorang yang tidak dikenal cenderung membuat penerimanya menjadi terasa terganggu.
+
+Cara bertanya yang baik
+- Gunakan bahasa yang sopan
+- Jika Anda menggunakan kata-kata yang kasar, adalah hal yang aneh jika kemudian Anda heran ketika tidak ada yang menjawab pertanyaan Anda :-)
+- Gunakan kata-kata seperti "Apakah ada yang bisa membantu saya?", "Terimakasih banyak sebelumnya", dst.
+- Ingat bahwa para pakar tersebut tidak menerima bayaran untuk membantu Anda, jadi setidak-tidaknya jangan lupa mengucapkan terimakasih kepada mereka.
+- Jangan asumsikan bahwa Anda berhak mendapatkan jawaban.
+- Ingat FAKTA UTAMA. Karena jika Anda telah berasumsi begini, maka Anda akan kecewa sendiri ketika pertanyaan Anda tidak terjawab, dan alih-alih berusaha introspeksi kenapa tidak ada jawaban Anda malah akan cenderung menjadi marah-marah di forum tersebut dan semakin diabaikan oleh hadirin lainnya (atau kena caci maki balik).
+- Beri judul yang sesuai dan deskriptif.
+- Judul email/thread seperti "tolooongg!!!!" justru cenderung akan diabaikan, karena memberikan kesan bahwa Anda terlalu malas bahkan sekedar cuma memberi judul email yang sesuai. Judul email seperti "Komputer restart sendiri setelah memasang Service Pack 3" akan mempunyai kans untuk dijawab yang lebih besar.
+- Jelaskan masalah Anda secara detil berikut dengan berbagai data-data yang ada.
+- INGAT bahwa para pakar di forum tersebut tidak bisa mengakses komputer Anda, jadi sumber informasi mereka hanya email dari Anda saja. Maka buatlah email tersebut selengkap dan sedetail mungkin.
+- Buat agar email/post Anda informatif dan tidak asal panjang lebar
+- Sehubungan dengan poin diatas, melampirkan data-data yang tidak relevan sehingga membuat email Anda menjadi sangat panjang malah justru akan membuat para pakar merasa segan untuk menjawab pertanyaan Anda. ("ya ampun sudah lama-lama download email dia ternyata isinya cuma beginian" delete!!!)
+- Tulis pertanyaan Anda dengan bahasa Indonesia yang benar. Penulisan pertanyaan yang amburadul akan memberikan kesan bahwa Anda adalah orang yang ceroboh, dan para pakar yang sibuk akan merasa segan untuk meluangkan waktunya bagi Anda
+- Jangan langsung mengklaim bahwa kesalahan ada pada pihak yang lain. Kalimat seperti "ada bug di program akunting ini" tanpa bukti yang kuat akan cenderung membuat para pembuat program tersebut (yang jelas adalah para pakarnya) menjadi tidak tertarik untuk menjawab pertanyaan Anda, atau malah tersinggung. Cukup jelaskan saja bahwa Anda menemukan suatu masalah di program tersebut, jangan membuat klaim yang tidak bisa Anda buktikan.
+- Jelaskan dan paparkan masalahnya, bukan tebakan Anda. Jika Anda bukan pakar di bidang tersebut, maka kemungkinan besar tebakan Anda salah, dan malah menunjukkan kebodohan Anda sendiri di depan umum.
+- Buat kesimpulan setelah permasalahan Anda terjawab. Setelah pertanyaan Anda terjawab / masalah Anda terselesaikan, kirim satu email lagi ke forum yang membeberkan apa saj ayang dilakukan untuk menyelesaikan masalah tersebut. ''Ini akan meningkatkan kemungkinan dijawabnya pertanyaan Anda yang berikutnya di forum tersebut'', karena pa ra pakar forum akan menilai bahwa Anda bisa juga memberi balik (dan tidak hanya meminta) dan mereka pada umumnya sangat menghargai ini.
+
+Menanggapi jawaban
+- Jawaban yang menyelesaikan permasalahan Anda tentu perlu dibalas paling tidak dengan ucapan terimakasih. Namun bagaimana dengan jawaban: RTFM atau STFW Balasan berupa sepatah kata RTFM (Read The Fine Manual) atau STFW (Search The Fine Web) berarti bahwa Anda telah melakukan kesalah yang fatal jawabannya sebetulnya sudah ada di dokumentasi produk tersebut (RTFM), atau di Internet (STFW) Jangan tersinggung, karena ini fakta (Anda melakukan kesalahan etika).
+- Jika ada yang menjawab dengan kasar, biarkan saja. Karena yang menurut Anda kasar, kadang justru adalah biasa di forum tersebut. Atau ada alasan yang kuat mengapa balasannya seperti itu. Atau mungkin Anda sedang emosi sehingga balasan tersebut terasa kasar bagi Anda.Dan berbagai kemungkinan lainnya. Yang lebih bijak adalah menenangkan diri Anda, dan lalu menjawab balasan tersebut dengan kepala dingin. Jangan emosional, sampaikan data dan fakta saja.
+- Jika jawaban yang Anda terima tidak berkenan bagi Anda, jangan tersinggung dan marah-marah karena:
+  * Kemungkinan Anda akan mengatakan hal-hal yang memalukan Anda sendiri, padahal kebanyakan forum dan mailing list terarsip di Internet., dan bisa dilihat oleh seluruh penduduk dunia. Tindakan Anda bertahun-tahun yang lalu dapat memalukan Anda selama bertahun-tahun setelahnya.
+  * Para pakar di forum tersebut akan mengingat Anda sebagai orang yang tidak pantas untuk dibantu di masa depan
+- Yang lebih baik adalah Anda introspeksi diri Anda sendiri, apakah ada etika-etika bertanya yang telah Anda langgar? Silahkan baca lagi petunjuk ini baik-baik.
+- Jika rasanya Anda telah cukup berhati-hati dan berusaha, namun masih tetap dimaki-maki, berarti memang forum tersebut bukan forum yang tepat. Tapi jangan dibalas, karena Anda sendiri yang akan kena getahnya. Cukup cari saja forum lainnya. Dunia tidak selebar daun kelor.
+
+Jika tidak ada yang menjawab pertanyaan Anda
+- Jangan tersinggung. Mungkin memang tidak ada yang mengetahui jawabannya. Tidak ada yang tahu jawabannya bukan berarti Anda diabaikan, walaupun memang sulit untuk membedakannya (karena sifat komunikasi elektronik yang faceless)
+- Jangan posting ulang pertanyaan Anda. Para pakar di forum tersebut, yang mengasumsikan bahwa kebetulan tidak ada yang mengetahui jawaban dari masalah Anda, akan merasa kesal ("cerewet benar orang ini"). Sebaliknya, cari jawabannya di forum yang lain.
+
+Contoh-contoh pertanyaan yang baik dan yang salah
+- Salah: Dimana saya bisa menemukan program anu ? (ya di Google, dogol)
+  Baik: Saya mencari program anu di Google, tapi tidak ada yang relevan / justru ketemu situs-situs mengenai produk anu. Apakah ada yang bisa membantu menunjukkan saya ke informasi mengenai cara untuk menggunakan fasilitas X di program anu tersebut ?
+
+- Salah: Bagaimana cara untuk install Linux ? (RTFM!!!)
+  Baik: Saya sedang meng-install Mandrake versi 9.2, namun saat sedang mendeteksi network card malah jadi hang. Network card saya merk D-link tipe TX530. (informasi jelas, detail, dan relevan). Saya sudah coba cari di Google dan http://www.mandrakeuser.org, namun tidak ada informasi mengenai hal ini. (penanya jelas sudah berusaha, namun masih belum berhasil juga). Ada yang tahu bagaimana solusinya ?
+
+- Salah: Motherboard saya gak mau hidup, gemana nehhh... ??!! ('Loe mau bayar gue berapa emangnya?)
+  Baik: Komputer saya tidak mau hidup setelah saya pasangi card Radeon 9800XT. Ada bunyi "bip" 3 kali sewaktu saya menekan tombol power. Sayang tidak ada informasi mengenai bunyi ''bip'' ini di manual dan website motherboard saya. Motherboard saya merek Epox tipe XXX-321. Ada yang bisa membantu saya?
+
+
+Untuk para pakar: Cara menjawab yang baik
+- Usahakan untuk memahami situasi penanya. Stress karena masalah yang sedang dialami dapat membuat penanya menjadi tidak sengaja membuat email yang terbaca kasar / egois. Lebih bijak jika kita memahami, dan membantu mereka.
+- Jika tidak tahu, katakan saja tidak tahu ! Jawaban yang salah namun terkesan canggih justru jauh lebih buruk daripada tidak ada jawaban sama sekali, karena akan menyesatkan si penanya. Dan kemudian akan menjatuhkan reputasi Anda sebagai pakar di forum yang bersangkutan.
+- Jangan ledek seseorang karena ketidak tahuannya. Anda dulu juga pernah bodoh seperti mereka. Jangan sombong.
+- Jika informasi yang ada kurang, jangan segan-segan untuk bekerjasama dengan penanya sampai masalahnya terpecahkan. Ingatkan ketika dulu Anda masih bodoh, dan orang-orang membantu Anda dengan senang hati? Bantuan Anda kepada si penanya mudah-mudahan dapat membuatnya menjadi pakar pula di kemudian hari, yang juga senang membantu orang lain yang tidak tahu.
+- Jawaban RTFM atau STFW memang kadang-kadang pantas untuk dikenakan kepada penanya-penanya tertentu, namun adalah jauh lebih baik jika Anda bisa menyertakan link/URL ke website yang relevan. Bahkan terkadang '''sekedar''' memberikan keyword yang tepat untuk dimasukkan di Google sebetulnya adalah bantuan yang sangat berharga bagi sang penanya!
+- Jika ada fasilitas FAQ di forum Anda, jangan lupa untuk mendokumentasikan pertanyaan-pertanyaan yang sering muncul disitu. Para calon penanya terbantu karena jawabannya bisa didapatkan dengan cepat, dan Anda sendiri juga akan terbantu karena volume pertanyaan menjadi berkurang

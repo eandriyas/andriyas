@@ -1,0 +1,290 @@
+
+
+//-------------basic, 8 pin
+
+#include <mega32.h>
+#include <delay.h>
+
+void main(void) 
+
+{
+    PORTA=255;  // active low
+    DDRA=0xff;  // output port
+      
+     while (1) 
+     {
+        
+        
+        PORTA=0b00001111;   // binary  0 -> hidup
+        delay_ms(500);		// waktu delay
+		
+        PORTA=0b11110000;
+        delay_ms(500); 
+        
+        
+        PORTA=0xff;   		// hexa 
+        delay_ms(1000);                                     
+                
+        
+        PORTA=63;   		// decimal
+        delay_ms(1000);
+                
+     
+     };
+}	 
+	 
+	 
+	 
+	 
+//-------------------abcdef	desimal, seven segment 
+	 
+#include <mega32.h>
+#include <delay.h>
+
+void main(void) 
+
+{
+    PORTA=255;  // active low
+    DDRA=0xff;  // output port
+      
+     while (1) 
+     {
+        
+        
+        PORTA = 0x05;
+        delay_ms(500);
+        
+        
+        PORTA = 0xc1;
+        delay_ms(500);
+        
+        
+        PORTA = 0xe5;
+        delay_ms(500);
+        
+        
+        PORTA = 0x85;
+        delay_ms(500);
+        
+        
+        PORTA = 0x21;
+        delay_ms(500);
+        
+        
+        PORTA = 0x71;
+        delay_ms(500);  
+    
+        
+     
+     };
+
+    
+}
+
+
+
+//-------------------------abcdef hexa , push button + 8 pin
+
+#include <mega32.h>
+#include <delay.h>
+
+void main(void) 
+
+{
+    PORTA=255;  
+    DDRA=0x;  // input 
+    
+    PORTC=255;
+    DDRC=255; //output
+      
+     while (1) 
+     {
+        if(PINA.7==0)        //pendeklarasian PIN pada push button
+            {PORTC=0xfe;}    //PINA.0==0 (pin 0 pada push button jika ditekan berlogika 0)                
+							//konfersi dari biner ke desimal
+        
+        else if(PINA.6==0)  //pendeklarasian PIN pada push button
+            {PORTC=0xfd;}   //PINA.1==0 (pin 1 pada push button jika ditekan berlogika 0)
+                
+                     
+        else if(PINA.5==0)  
+            {PORTC=0xfb;}
+            
+        
+        else if(PINA.4==0)  
+            {PORTC=0xf7;}
+            
+			
+        else if(PINA.3==0)  
+            {PORTC=0xef;}
+            
+            
+        else if(PINA.2==0)  
+            {PORTC=0xdf;}
+            
+            
+        else if(PINA.1==0)  
+            {PORTC=0xbf;}
+            
+            
+        else if(PINA.0==0)  
+            {PORTC=0x7f;}
+             
+     };
+
+}
+
+
+
+
+//================
+
+
+#include <mega32.h>
+#include <delay.h>
+
+void main(void) 
+
+{
+    PORTA=255;  
+    DDRA=0x;  // input 
+    
+    PORTC=255;
+    DDRC=255; //output
+      
+     while (1) 
+     {
+        if(PINA.7==0)             
+             {PORTC=0b00000000;                   
+             delay_ms(400);  
+             
+             PORTC=0xff;      
+             }
+                                   
+             
+        else if(PINA.6==0) 
+          {  
+             PORTC=0x49;  
+             delay_ms(400);
+                   
+             PORTC=0x0d;
+             delay_ms(400);     //nim 5306
+                          
+             
+             PORTC=0x03;
+             delay_ms(400); 
+             
+             
+             PORTC=0x41;
+             delay_ms(400);
+             
+             
+             
+             PORTC=0xff;
+             
+                 
+             
+           }  
+                     
+        else if(PINA.5==0)             //nim 5322
+        {   
+         PORTC=0x49;    
+            delay_ms(400); 
+            
+              PORTC=0x0d;
+             delay_ms(400);    
+             
+             PORTC=0x25;
+             delay_ms(400);
+             
+             PORTC=0x25;
+             delay_ms(400);
+             
+             PORTC=0xff;
+           } 
+        
+        else if(PINA.4==0)            //nim 5308
+        {   
+         PORTC=0x49;      
+            delay_ms(400); 
+            
+              PORTC=0x0d;
+             delay_ms(400);    
+             
+             PORTC=0x03;
+             delay_ms(400);
+             
+             PORTC=0x01;
+             delay_ms(400);    
+             
+             PORTC=0xff;
+         }
+            
+            
+        else if(PINA.3==0)      //abc
+        { 
+            PORTC=0x11;    
+            delay_ms(400); 
+            
+              PORTC=0xc1;
+             delay_ms(400);    
+             
+             PORTC=0x63;
+             delay_ms(400);    
+             
+             PORTC=0xff;
+        }    
+            
+        else if(PINA.2==0)  
+          { 
+            PORTC=0x85;    
+            delay_ms(400); 
+            
+              PORTC=0x61;
+             delay_ms(400);    
+             
+             PORTC=0x71;
+             delay_ms(400); 
+             
+             PORTC=0xff;
+        }
+            
+            
+        else if(PINA.1==0)  
+              { 
+            PORTC=0x41;     
+            delay_ms(400); 
+            
+              PORTC=0x91;
+             delay_ms(400);    
+             
+             PORTC=0xf3;
+             delay_ms(400);  
+             
+             PORTC=0xff;
+        }
+            
+            
+        else if(PINA.0==0)  
+              { 
+            PORTC=0x49;     
+            delay_ms(400); 
+            
+              PORTC=0x0d;
+             delay_ms(400);    
+             
+             PORTC=0x03;
+             delay_ms(400);
+             
+            PORTC=0x03;
+             delay_ms(400);  
+             
+             PORTC=0xff;
+        }
+             
+     };
+
+}
+
+
+
